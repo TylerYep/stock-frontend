@@ -1,0 +1,28 @@
+@media (min-width: 850px) {
+    #headerText{
+        margin-left: 0px ;
+    }
+
+}
+
+#logoImg {
+    float: left;
+    width: 125px;
+    margin-top: -15px;
+    margin-left: -10px;
+}
+
+#headerText {
+    margin-left: 10px;
+    float: left;
+}
+
+#title {
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.green {
+    font-color:green;
+    color:green;
+}

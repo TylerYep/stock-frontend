@@ -1,0 +1,68 @@
+
+
+code {
+  padding: 0px;
+  font-family: monaco;
+  font-weight:500;
+  color:black;
+  background-color: inherit !important;
+}
+
+.reference {
+  max-width: 650px;
+  overflow: auto;
+    font-size:15px;
+    line-height: 1.0;
+    text-align: left;
+}
+
+.demoText{
+  color:blue;
+}
+
+.keyword {
+  color:#7e0855;
+}
+
+.demoCode {
+  margin:20px;
+  margin-left:3em
+}
+
+.comment {
+  color:#729683;
+  font-family: monaco;
+  font-weight:400;
+  font-size:13px;
+}
+
+      .refCard {
+        display: flex;
+        align-items: stretch;
+        width:100%;
+      }
+
+      .refCol {
+        flex-grow:1;
+        width:370px;
+      }
+
+      .bordered {
+        border: 1px solid black
+      }
+
+      .refCel {
+        padding-left: 5px;
+      }
+
+      .refCode {
+        margin-left:5px;
+        margin-top:7px;
+      }
+
+      .refComment {
+        color:#729683;
+      font-family: monaco;
+      font-weight:400;
+      font-size:13px;
+      }

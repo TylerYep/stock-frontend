@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/codeinplace/v1/static/css/main.6aeb4d04.chunk.css",
+    "main.js": "/codeinplace/v1/static/js/main.624649c0.chunk.js",
+    "main.js.map": "/codeinplace/v1/static/js/main.624649c0.chunk.js.map",
+    "runtime-main.js": "/codeinplace/v1/static/js/runtime-main.04a6ec74.js",
+    "runtime-main.js.map": "/codeinplace/v1/static/js/runtime-main.04a6ec74.js.map",
+    "static/css/2.30e53678.chunk.css": "/codeinplace/v1/static/css/2.30e53678.chunk.css",
+    "static/js/2.9848df05.chunk.js": "/codeinplace/v1/static/js/2.9848df05.chunk.js",
+    "static/js/2.9848df05.chunk.js.map": "/codeinplace/v1/static/js/2.9848df05.chunk.js.map",
+    "index.html": "/codeinplace/v1/index.html",
+    "precache-manifest.1f951b060310246a7daeefca5cb82d40.js": "/codeinplace/v1/precache-manifest.1f951b060310246a7daeefca5cb82d40.js",
+    "service-worker.js": "/codeinplace/v1/service-worker.js",
+    "static/css/2.30e53678.chunk.css.map": "/codeinplace/v1/static/css/2.30e53678.chunk.css.map",
+    "static/css/main.6aeb4d04.chunk.css.map": "/codeinplace/v1/static/css/main.6aeb4d04.chunk.css.map",
+    "static/js/2.9848df05.chunk.js.LICENSE.txt": "/codeinplace/v1/static/js/2.9848df05.chunk.js.LICENSE.txt",
+    "static/media/coffeeRoom.jpg": "/codeinplace/v1/static/media/coffeeRoom.125a34f2.jpg",
+    "static/media/ed.svg": "/codeinplace/v1/static/media/ed.4ad7e7a9.svg",
+    "static/media/logo.gif": "/codeinplace/v1/static/media/logo.45ed74b2.gif",
+    "static/media/mainquad-sq.jpg": "/codeinplace/v1/static/media/mainquad-sq.44c6b068.jpg",
+    "static/media/mehran-sq.jpg": "/codeinplace/v1/static/media/mehran-sq.dd143e4c.jpg",
+    "static/media/piech-sq.jpg": "/codeinplace/v1/static/media/piech-sq.0c7ed7a8.jpg",
+    "static/media/pycharm.png": "/codeinplace/v1/static/media/pycharm.a0d5491d.png",
+    "static/media/q2_efesBroken.png": "/codeinplace/v1/static/media/q2_efesBroken.f9d2b80b.png",
+    "static/media/q2_efesRepaired.png": "/codeinplace/v1/static/media/q2_efesRepaired.aa03df62.png",
+    "static/media/sl-sq.jpg": "/codeinplace/v1/static/media/sl-sq.419153ec.jpg",
+    "static/media/teaRoom.jpg": "/codeinplace/v1/static/media/teaRoom.386bc52f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04a6ec74.js",
+    "static/css/2.30e53678.chunk.css",
+    "static/js/2.9848df05.chunk.js",
+    "static/css/main.6aeb4d04.chunk.css",
+    "static/js/main.624649c0.chunk.js"
+  ]
+}
