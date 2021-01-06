@@ -21,7 +21,7 @@
     "@types/react-dom": "^16.9.0",
     "aws-amplify": "^2.2.2",
     "aws-sdk": "^2.610.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "brace": "^0.11.1",
     "city-timezones": "^1.2.0",
